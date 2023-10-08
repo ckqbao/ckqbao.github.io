@@ -51981,7 +51981,7 @@ o=A.f2(a)?p/1.5:p/4
 n=o
 o=p
 p=n}m=A.e5(16)
-l=A.yp("svgs/arrow-down.svg",B.dV,j,20)
+l=A.yp("assets/svgs/arrow-down.svg",B.dV,j,20)
 p=A.br(j,new A.w5(B.a0h,k.d,new A.aDs(k),A.Si(B.Z,B.aC),B.a0,l,!0,B.cV,j,t.Af),B.l,j,j,new A.bX(B.kq,j,j,m,j,j,B.O),j,50,j,j,j,j,p)
 if(A.aJ(a,j,i).w.a.a<=450)i=o
 else i=A.f2(a)?o/1.5:o/10
@@ -53175,7 +53175,7 @@ this.b_()},
 H(a){var s=null,r=t.l,q=A.aJ(a,s,r).w.a
 if(A.aJ(a,s,r).w.a.a<=450)r=q.a*0.8
 else{r=q.a
-r=A.f2(a)?r/2:r/5}return A.kx(s,s,A.e6(A.d5(A.a([A.aKv("assets/ait_logo.png",r)],t.p),B.A,B.cj,B.a3),s,s),s,s,s)}}
+r=A.f2(a)?r/2:r/5}return A.kx(s,s,A.e6(A.d5(A.a([A.aKv("assets/img/ait_logo.png",r)],t.p),B.A,B.cj,B.a3),s,s),s,s,s)}}
 A.aES.prototype={
 $1(a){var s,r
 a.aM(0)
