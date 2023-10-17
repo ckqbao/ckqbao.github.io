@@ -52134,7 +52134,7 @@ o=o.d
 o===$&&A.b()
 r=A.aUi(B.Jr,null,"lato",B.aZ,!0)
 q=this.a.d
-return new A.px(p,o,s,n,"AiTandem \u2013 Learn languages by speaking",r,q==null?B.xm:q,B.Ul,B.iQ,null)},
+return new A.px(p,o,s,n,"Practice your languages anytime - with Ai based real life conversations",r,q==null?B.xm:q,B.Ul,B.iQ,null)},
 $S:365}
 A.t_.prototype={
 D9(a,b){return this.ara(a,b)},
