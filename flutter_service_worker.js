@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9f16ea8b136cd971c0ece138a19407fc",
-"assets/AssetManifest.json": "2e7cb6e96cb3d67e23a19f8f27f10536",
+const RESOURCES = {"assets/AssetManifest.bin": "b153e2fbdd363e9e783521c71275e4b8",
+"assets/AssetManifest.json": "8195e27fb480bc62d5fd98907c4e7b95",
 "assets/assets/img/ait_logo.png": "ee106c67422bc620209652418f8734ef",
 "assets/assets/img/ban.png": "92bdf87be2e3c220fbaba36db1752a12",
 "assets/assets/img/bell.png": "e7e4ff7f67f79bc7f67b3dba56cfb3b0",
@@ -29,6 +29,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f16ea8b136cd971c0ece138a19407fc
 "assets/assets/svgs/english.svg": "ff8e0393dc8b71e777982b157dabf9c2",
 "assets/assets/svgs/french.svg": "2307426956230aced4fde8bbe23cec57",
 "assets/assets/svgs/german.svg": "2373e626c37d67e12059ff576dfe4c62",
+"assets/assets/svgs/ios-share.svg": "9555399268c9119141c458f3536315d2",
 "assets/assets/svgs/italien.svg": "35720de7fa390c1afb91cfef8c4bc9b1",
 "assets/assets/svgs/login-m.svg": "0210cb5350499a949878b82145faa782",
 "assets/assets/svgs/login-w.svg": "b19b05ea18988fea097ba6c3b93f6828",
@@ -43,7 +44,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f16ea8b136cd971c0ece138a19407fc
 "assets/assets/svgs/spanish.svg": "db5cadd5f39d92028d444c613ef5281a",
 "assets/assets/svgs/trash.svg": "1ca004e73ed2bde0dbbb519404a553bf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "3c618835bd113c78922c9748f2334a3f",
+"assets/fonts/MaterialIcons-Regular.otf": "3c3cb9940667c89a41b14525e3545dd0",
 "assets/NOTICES": "5dd48cc027ee05a9fb05cd1592953bb9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "598bde2b12559ec5bb00eee46e0f0eeb",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
@@ -54,6 +55,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f16ea8b136cd971c0ece138a19407fc
 "canvaskit/skwasm.js": "1df4d741f441fa1a4d10530ced463ef8",
 "canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
+"css/loader.css": "4289daff5af0f29b1ff6e90bc54f190a",
 "favicon-16x16.png": "dc4ff5b2c7a584770b820cc1b9692427",
 "favicon-32x32.png": "306a4f3d5f802f07c88fdd545330e166",
 "favicon.ico": "4edc963b008029a0e07aca2335a0b98e",
@@ -61,9 +63,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f16ea8b136cd971c0ece138a19407fc
 "icons/android-chrome-192x192.png": "bd40b0877270606ed2914df8446ec062",
 "icons/android-chrome-512x512.png": "78ebb5b5fb4a7a52df368c93c35d97af",
 "icons/apple-touch-icon.png": "af95d9a416480e7ef32005470ee46ac6",
-"index.html": "6a7834203c26361a0a35672ec1309f33",
-"/": "6a7834203c26361a0a35672ec1309f33",
-"main.dart.js": "5650913f88155d5b1f91d12a9ecc35b8",
+"index.html": "c923082a32e330d6b1174fb0114f8bd2",
+"/": "c923082a32e330d6b1174fb0114f8bd2",
+"main.dart.js": "167d234b492529a96ac22e31dd4681bb",
 "manifest.json": "cc1c5655a99ff2fb3834576aa0b93e27",
 "script.js": "5e5390fe694d712649d85efa1e8bd87c",
 "version.json": "eae24cc7b6bf3b33ae9ef491b3a4dc42"};
