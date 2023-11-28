@@ -45,7 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b153e2fbdd363e9e783521c71275e4b8
 "assets/assets/svgs/trash.svg": "1ca004e73ed2bde0dbbb519404a553bf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "3c3cb9940667c89a41b14525e3545dd0",
-"assets/NOTICES": "5dd48cc027ee05a9fb05cd1592953bb9",
+"assets/NOTICES": "a196087a99fc5fdd62932c4ad20a8c00",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "598bde2b12559ec5bb00eee46e0f0eeb",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -63,11 +63,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "b153e2fbdd363e9e783521c71275e4b8
 "icons/android-chrome-192x192.png": "bd40b0877270606ed2914df8446ec062",
 "icons/android-chrome-512x512.png": "78ebb5b5fb4a7a52df368c93c35d97af",
 "icons/apple-touch-icon.png": "af95d9a416480e7ef32005470ee46ac6",
-"index.html": "78029e75355dd1a1832ba723e01e8325",
-"/": "78029e75355dd1a1832ba723e01e8325",
-"main.dart.js": "acd57efddc1eccab6da1db0bf022f9db",
+"index.html": "ff91a234cfabfd72c4bb7c18344d4972",
+"/": "ff91a234cfabfd72c4bb7c18344d4972",
+"main.dart.js": "2ae18b42a2e276a78bf02a02e4653219",
 "manifest.json": "cc1c5655a99ff2fb3834576aa0b93e27",
-"script.js": "5e5390fe694d712649d85efa1e8bd87c",
+"script.js": "5fdd045fa500fe2f82a1c2e2bd8818e4",
 "version.json": "eae24cc7b6bf3b33ae9ef491b3a4dc42"};
 // The application shell files that are downloaded before a service worker can
 // start.

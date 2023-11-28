@@ -61,3 +61,13 @@ async function stopButton() {
 
   return base64;
 }
+
+function sendConversionEvent() {
+  console.log('gtag: send [event][conversion]');
+  gtag('event', 'conversion', { 'send_to': 'AW-11400885884/7jXICJSi-vMYEPzsrrwq' });
+}
+
+function sendNavigation(page_location) {
+  console.log(`gtag: send [event][page_view][page_location: ${page_location}]`);
+  gtag('event', 'page_view', { page_location });
+}

@@ -35,9 +35,17 @@
   <title>Practice your languages anytime - with Ai based real life conversations</title>
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="./css/loader.css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11400885884"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-11400885884', { send_page_view: false });
+  </script>
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = "731052043";
+    var serviceWorkerVersion = "2275095660";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="./flutter.js" defer></script>
@@ -95,7 +103,8 @@
         onEntrypointLoaded: function (engineInitializer) {
           engineInitializer.initializeEngine().then(function (appRunner) {
             appRunner.runApp();
-            document.body.removeChild(document.getElementsByClassName('loader-wrapper')[0])
+            const loader = document.getElementsByClassName('loader-wrapper')[0]
+            if (loader) document.body.removeChild(loader)
           });
         }
       });
