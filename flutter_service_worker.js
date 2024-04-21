@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b153e2fbdd363e9e783521c71275e4b8",
-"assets/AssetManifest.json": "8195e27fb480bc62d5fd98907c4e7b95",
+const RESOURCES = {"assets/AssetManifest.bin": "836670221d13b9787a1ad787543af213",
+"assets/AssetManifest.json": "353e960bdc251b730bf46bbaca7c506b",
 "assets/assets/img/ait_logo.png": "ee106c67422bc620209652418f8734ef",
 "assets/assets/img/ban.png": "92bdf87be2e3c220fbaba36db1752a12",
 "assets/assets/img/bell.png": "e7e4ff7f67f79bc7f67b3dba56cfb3b0",
+"assets/assets/img/card.png": "4b2d168c29fd87b05b41014e876a5130",
 "assets/assets/img/circle.png": "1f3b15efb11cea5cb69b56f2921ded24",
 "assets/assets/img/dutch.png": "ebc647db2b8b0f9bd966a9d6e618eaf1",
 "assets/assets/img/english.png": "90d5740bdb54415bb9a3ed2b232b0e85",
@@ -63,11 +64,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "b153e2fbdd363e9e783521c71275e4b8
 "icons/android-chrome-192x192.png": "bd40b0877270606ed2914df8446ec062",
 "icons/android-chrome-512x512.png": "78ebb5b5fb4a7a52df368c93c35d97af",
 "icons/apple-touch-icon.png": "af95d9a416480e7ef32005470ee46ac6",
-"index.html": "ff91a234cfabfd72c4bb7c18344d4972",
-"/": "ff91a234cfabfd72c4bb7c18344d4972",
-"main.dart.js": "2ae18b42a2e276a78bf02a02e4653219",
-"manifest.json": "cc1c5655a99ff2fb3834576aa0b93e27",
-"script.js": "5fdd045fa500fe2f82a1c2e2bd8818e4",
+"index.html": "784231bdc8b12b4ff5f483aa45f42147",
+"/": "784231bdc8b12b4ff5f483aa45f42147",
+"main.dart.js": "93339b0eedafc935285323dca2fdaa57",
+"manifest.json": "b416cf6e78c490fbaa7bf5fccca8ca5a",
+"script.js": "a81e79374f4796970efb5a383c297b4e",
 "version.json": "eae24cc7b6bf3b33ae9ef491b3a4dc42"};
 // The application shell files that are downloaded before a service worker can
 // start.
